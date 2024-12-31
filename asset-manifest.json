@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/homecare/static/css/main.f0369a77.css",
+    "main.js": "/homecare/static/js/main.44fb7e78.js",
+    "static/media/asthma-illustration.jpg": "/homecare/static/media/asthma-illustration.cd8a4a2ae52beb74c532.jpg",
+    "index.html": "/homecare/index.html",
+    "main.f0369a77.css.map": "/homecare/static/css/main.f0369a77.css.map",
+    "main.44fb7e78.js.map": "/homecare/static/js/main.44fb7e78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0369a77.css",
+    "static/js/main.44fb7e78.js"
+  ]
+}
